@@ -1,16 +1,66 @@
-## Hi there 👋
+✨ A little about me
 
-<!--
-**login106287/login106287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently building Moonshire‑style 2D top‑down adventure in Unity with my friend Hoàn.
 
-Here are some ideas to get you started:
+🌱 Sharpening my algorithmic thinking for ICPC & other programming contests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+♻️ Passionate about recycled‑material maths art – check out my Prism Calendar!
+
+🎓 Senior at THPT Ngô Quyền, Biên Hòa – Đồng Nai, Việt Nam (Class A7).
+
+📝 Love explaining math & CS ideas through interactive websites zoals Periodic Table in Life.
+
+🛠 Tech Stack
+
+
+
+
+
+
+
+
+
+📈 GitHub Stats
+
+🚀 Featured Projects
+
+Project
+
+Description
+
+Tech
+
+2D Adventure Game
+
+Top‑down adventure inspired by MOONSHIRE
+
+C#, Unity
+
+Periodic Table in Life
+
+Interactive website showing practical uses of each element
+
+HTML, JS
+
+Prism Calendar
+
+Desk calendar modeled as a triangular prism, built from recycled carton
+
+Design, 3D
+
+💬 Ask me about
+
+Algorithms • Graph theory • Game loops • UI design tips • Math modeling
+
+📫 How to reach me
+
+✉️ Email: YOUR_EMAIL@example.com
+
+🔗 LinkedIn: YOUR_LINKEDIN
+
+🌐 Portfolio: your.username.dev (coming soon)
+
+
+
+Thanks for dropping by! Have a great day 🌟
+
