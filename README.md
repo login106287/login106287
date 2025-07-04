@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Game programming**
 
-- 👨‍💻 All of my projects are available at [https://github.com/login106287](https://github.com/login106287)
-
 - 📫 How to reach me **tquanghuy2607@gmail.com**
 
 - ⚡ Fun fact **I'm not gay.**
